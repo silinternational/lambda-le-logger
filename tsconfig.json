@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "module": "commonjs",
+        "noImplicitAny": false,
+        "removeComments": true,
+        "rootDir": ".",
+        "sourceMap": false,
+        "target": "es5"
+    },
+    "exclude": [
+        ".git",
+        "node_modules"
+    ],
+    "filesGlob": [
+        "./*.ts",
+        "!./*.d.ts"
+    ],
+    "atom": {
+        "rewriteTsconfig": true
+    },
+    "files": [
+        "./le-logger.ts"
+    ]
+}

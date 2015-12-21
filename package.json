@@ -1,0 +1,26 @@
+{
+  "name": "lambda-le-logger",
+  "version": "0.1.0",
+  "description": "A way to send logs to the Logentries service, even from an AWS Lambda function.",
+  "author": "Matt Henderson <matt_henderson@sil.org>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "le-logger.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silinternational/lambda-le-logger"
+  },
+  "bugs": {
+    "url": "https://github.com/silinternational/lambda-le-logger/issues"
+  }
+  "keywords": [
+    "log",
+    "logentries",
+    "lambda"
+  ],
+  "dependencies": {
+    "request": "2.67.0"
+  },
+  "license": "MIT"
+}
