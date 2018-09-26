@@ -20,7 +20,7 @@
     "lambda"
   ],
   "dependencies": {
-    "request": "2.67.0"
+    "request": "^2.88.0"
   },
   "license": "MIT"
 }
