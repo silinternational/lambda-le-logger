@@ -1,6 +1,6 @@
 {
   "name": "lambda-le-logger",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A way to send logs to the Logentries service, even from an AWS Lambda function.",
   "author": "Matt Henderson <matt_henderson@sil.org>",
   "scripts": {
