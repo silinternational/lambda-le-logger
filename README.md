@@ -1,3 +1,5 @@
+# ARCHIVED - This code is no longer maintained #
+
 # Lambda-Le-Logger
 A way to send logs to the [Logentries](https://logentries.com/) service, even
 from an [AWS Lambda](https://aws.amazon.com/lambda/) function.
